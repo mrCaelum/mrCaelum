@@ -24,6 +24,7 @@
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-red?style=flat-square&logo=opencv)
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat-square&logo=opengl)
