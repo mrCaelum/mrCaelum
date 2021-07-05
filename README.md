@@ -41,8 +41,8 @@
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 
 ### ⚡ GitHub Stats
-[![mrCaelum's github stats](https://github-readme-stats.vercel.app/api?username=mrCaelum&include_all_commits=true)](https://github.com/mrCaelum/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrCaelum&layout=compact)](https://github.com/mrCaelum/)
+[![mrCaelum's github stats](https://github-readme-stats.vercel.app/api?username=mrCaelum&include_all_commits=true&theme=tokyonight)](https://github.com/mrCaelum/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrCaelum&layout=compact&theme=tokyonight)](https://github.com/mrCaelum/)
 
 
 ## 🌍 Social links
