@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### 💻 Technologies & Tools
+## 💻 Techs & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Archlinux](https://img.shields.io/badge/Archlinux-1793d1?style=flat-square&logo=archlinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
@@ -41,11 +39,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-
-### ⚡ GitHub Stats
-[![mrCaelum's github stats](https://github-readme-stats.vercel.app/api?username=mrCaelum&include_all_commits=true&theme=tokyonight)](https://github.com/mrCaelum/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrCaelum&layout=compact&theme=tokyonight)](https://github.com/mrCaelum/)
-
 
 ## 🌍 Social links
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:louis.kleiver@gmail.com)
