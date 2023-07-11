@@ -39,8 +39,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-
-## 🌍 Social links
-[![Mail](https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:louis.kleiver@gmail.com "Mail: louis.kleiver@gmail.com")
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-kleiver/ "Linkedin: louis-kleiver")
-[![Discord](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.com/users/351760360274919426/ "Discord: Unknown 오류#8666")
